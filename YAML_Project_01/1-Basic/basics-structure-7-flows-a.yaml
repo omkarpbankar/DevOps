@@ -1,0 +1,13 @@
+# Block Style (a.ka indentation style and JSON style 'flow')
+---
+fruits:
+  - banana
+  - apple
+  - mango
+
+japan:
+  capital: Tokyo
+  population: 126.3m
+  island: True
+...
+

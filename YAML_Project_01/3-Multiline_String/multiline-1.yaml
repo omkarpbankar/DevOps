@@ -1,0 +1,11 @@
+# Handling long strings
+
+---
+dc1:
+  datacenter: "dc-na-1"
+  dclocation: "Boston"
+  known_issues: null
+  server_count: 3000
+  note1: "In the age of proliferation, organizations must have a polished and well-managed system for various operations. The field of Project management and its zeal and potential to contrive any project has fascinated me for a long. I am always interested in knowing the methodology and working process of any mechanical equipment around me. Even my family members used to get annoyed by my questions of how and why. Being a curious child since my childhood, Engineering was my ultimate choice for undergraduate studies from a very early age."
+  note2: "I decided to pursue engineering in civil as it is a core branch. It could be a possible full stop for my keenness to know the thought process and strategies behind the construction of sky-touching infrastructures. But the completion of my degree leads to a drastic hike in my eagerness to learn more about actual game plans behind real world projects. I have completed my Bachelor’s degree from Jaypee University of Information technology with a 7.6 CGPA in 2020. Through this course, I have gained deep acumen into the world of civil engineering and got an idea about how vast this field is. While studying resource management in my third year of graduation, I realized that this specific field has my all interest. Through this subject, I learned the fundamentals of Work Breakdown Structure which illustrates the targets we want to accomplish in any project. In my view, proper management of resources can turn anybody into a successful person in his life."
+...

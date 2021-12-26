@@ -1,0 +1,32 @@
+# YAML document start with three dashes(---)
+
+---
+dc_na: 
+  ? location
+  : "Boston"
+  ? total_servers
+  : 5000
+  ? total_racks
+  : 225
+  # Long string as a key
+  ? when was the air cooling upgraded
+  : 2019
+  # Long string as a key
+  ? Wow! How old is this dc?
+  : 10 years old
+  # Very long key. Practically make no sense.
+  ? |-
+    YAML is a data serialization language that is often used for writing configuration
+    files. Depending on whom you ask, YAML stands for yet another markup language or
+    YAML ain't markup language (a recursive acronym), which emphasizes that YAML is 
+    for data, not documents. 
+  : True
+  # Key itself is blank
+  ?
+  : "Wow"
+  # Special characters as a key.
+  ? "!"
+  : "Hello Hello Hello"
+
+...
+# End of YAML file.

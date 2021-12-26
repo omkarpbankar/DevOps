@@ -1,0 +1,10 @@
+# Exaple of a set
+
+---
+groceries: !!set
+  ? Bell Pepper
+  ? Milk
+  ? Bread
+  ? Greens
+  
+...
